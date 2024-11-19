@@ -33,6 +33,5 @@ Este projeto implementa uma API RESTful com autenticação utilizando JSON Web T
 
 Utilize os tokens JWT gerados ao fazer login para testar os endpoints que exigem autenticação. O controle de acesso garante que apenas usuários com o perfil adequado (admin ou user) possam acessar determinados recursos.
 
-## Licença
 
 
