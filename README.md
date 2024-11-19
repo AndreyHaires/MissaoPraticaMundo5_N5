@@ -1,7 +1,5 @@
 # MissaoPraticaMundo5_N5
 
-# API de Autenticação e Gestão de Contratos
-
 Este projeto implementa uma API RESTful com autenticação utilizando JSON Web Tokens (JWT). A API permite a autenticação de usuários, controle de acesso baseado em perfil (admin e user) e a recuperação de contratos e dados de usuários.
 
 ## Funcionalidades
@@ -37,4 +35,4 @@ Utilize os tokens JWT gerados ao fazer login para testar os endpoints que exigem
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License.
+
